@@ -2,16 +2,6 @@
 
 Uses Maven
 
-## Git steps 
- * In https://github.com/new create new repository jsp-example
- * git init 
- * touch README.md
- * touch .gitignore
- * git add .
- * git commit -m 'Initial commit for jsp-example'
- * git remote add origin https://github.com/vborrego/jsp-example.git
- * git push origin master
-
 ## Build 
  * mvn clean compile package
  * A WAR file is generated inside the target folder with the name jsp-example-1.0.war 
