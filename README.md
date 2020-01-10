@@ -1,5 +1,4 @@
-# jsp-example
-Sample JSP web app.
+# SBD project
 
 Uses Maven
 
@@ -46,4 +45,4 @@ tail -f logs/localhost.2018-06-12.log
 |           |   |-- web.xml
 |           |-- index.jsp
 ```
-# SBD_project
+
